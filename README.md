@@ -2,8 +2,6 @@
 
 This repository provides a workshop-focused Isaac Sim environment for an international competition. It contains tabletop scene composition scripts, keyboard-controlled mobile dual-arm robot demos, USD utilities, Docker runtimes for Isaac Sim and Isaac Lab, and third-party robot description assets.
 
-For the full developer workflow, see [`docs/developer_setup.md`](docs/developer_setup.md).
-[Screencast from 2026-07-01 16-44-23.webm](https://github.com/user-attachments/assets/cc280ef0-2ad0-46f1-9434-4dd8357ac3ba)
 
 ## Repository Layout
 
